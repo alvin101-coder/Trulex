@@ -10,7 +10,7 @@ export default function Index() {
         alignItems: "center",
       }}
     >
-      <Text className="font-bold text-lg my-10 color-blue-400">Welcome to Trulex</Text>
+      <Text className="font-bold my-10 color-blue-400 font-rubik text-4xl">Welcome to Trulex</Text>
       <Link href="/sign-in">Sign In</Link>
       <Link href="/explore">Explore</Link>
       <Link href="/profile">Profile</Link>
